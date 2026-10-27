@@ -1,0 +1,23 @@
+{
+  "applicationId": "tv.harem.app",
+  "versionCode": 103,
+  "versionName": "1.0.3",
+  "releaseDate": "2026-10-26T00:00:00Z",
+  "apkUrl": "https://github.com/haremsalih23-dev/Haremtv-releases/releases/download/v1.0.3-release1/harem-tv-final.apk",
+  "sha256": "83f5115dd9869f3e94a648c3df8f2f0b6073712dc34f5223f65860f1d59fec12",
+  "fileSize": 5652076,
+  "minSupportedVersionCode": 100,
+  "isMandatory": false,
+  "releaseNotes": [
+    "Integrated production-ready permanent in-app auto-update system",
+    "Hardware-accelerated TV remote D-Pad navigation and high-contrast focus rings",
+    "Native HaremUpdateProvider ContentProvider for seamless package installation",
+    "Strict cryptographic SHA-256 checksum verification before launching installer",
+    "219 live streaming channels across Kurdish, Arabic, and Sports categories"
+  ],
+  "downloaderCode": null,
+  "fallbackUrls": [
+    "/harem-tv-final.apk",
+    "/harem-tv.apk"
+  ]
+}
