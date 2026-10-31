@@ -1,23 +1,23 @@
 {
-  "applicationId": "tv.harem.app",
-  "versionCode": 103,
-  "versionName": "1.0.3",
-  "releaseDate": "2026-10-26T00:00:00Z",
-  "apkUrl": "https://github.com/haremsalih23-dev/Haremtv-releases/releases/download/v1.0.3-release1/harem-tv-final.apk",
-  "sha256": "83f5115dd9869f3e94a648c3df8f2f0b6073712dc34f5223f65860f1d59fec12",
-  "fileSize": 5652076,
-  "minSupportedVersionCode": 100,
-  "isMandatory": false,
-  "releaseNotes": [
-    "Integrated production-ready permanent in-app auto-update system",
-    "Hardware-accelerated TV remote D-Pad navigation and high-contrast focus rings",
-    "Native HaremUpdateProvider ContentProvider for seamless package installation",
-    "Strict cryptographic SHA-256 checksum verification before launching installer",
-    "219 live streaming channels across Kurdish, Arabic, and Sports categories"
-  ],
-  "downloaderCode": null,
-  "fallbackUrls": [
-    "/harem-tv-final.apk",
-    "/harem-tv.apk"
-  ]
+“applicationId”: “tv.harem.app”,
+“versionCode”: 104,
+“versionName”: “1.0.4”,
+“releaseDate”: “2026-10-31T00:00:00Z”,
+“apkUrl”: “https://github.com/haremsalih23-dev/Haremtv-releases/releases/download/v1.0.4/harem-tv-final.apk”,
+“sha256”: “9e09dec99d0f87f7108c0cce7134194726ce7c9e1c5db86eb2a2d06bbbbc338b”,
+“fileSize”: 6672162,
+“minSupportedVersionCode”: 100,
+“isMandatory”: false,
+“releaseNotes”: [
+“Universal Android TV and Android Mobile dual-mode support with auto device detection”,
+“Two-stage physical TV remote OK selection: 1st OK tunes embedded player, 2nd OK enters fullscreen”,
+“Unobstructed clean video player in TV mode with clean remote zapping and two-way CH+/CH- navigation”,
+“Channel lineup verified with Kurdmax Show Sorani and Znar TV removed”,
+“Secure signed release APK with v1, v2, and v3 signature schemes”
+],
+“downloaderCode”: null,
+“fallbackUrls”: [
+“/harem-tv-final.apk”,
+“/harem-tv.apk”
+]
 }
